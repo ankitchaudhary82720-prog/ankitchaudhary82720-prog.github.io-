@@ -1,0 +1,41 @@
+ANKIT CHAUDHARY
+B.Tech Computer Science & Engineering Student
+GitHub: https://github.com/ankitchaudhary82720-prog
+LinkedIn: ADD YOUR LINKEDIN PROFILE URL
+Email: ADD YOUR EMAIL ADDRESS
+Location: ADD CITY, STATE
+
+PROFESSIONAL SUMMARY
+Third-year B.Tech Computer Science and Engineering student interested in software development, programming, and building practical projects. Eager to learn, collaborate, and strengthen technical skills.
+
+EDUCATION
+B.Tech — Computer Science & Engineering
+University: CSJM University
+Expected graduation: ADD YEAR
+College: ADD COLLEGE NAME
+
+TECHNICAL SKILLS
+Programming: Java, Python, C
+Web: HTML, CSS, JavaScript
+Database & Tools: MySQL, Git, GitHub, VS Code
+Core concepts: Object-Oriented Programming, DBMS, Data Structures & Algorithms
+NOTE: Keep only skills you can confidently discuss in an interview.
+
+PROJECTS
+Online Examination System
+- Java-based project concept using object-oriented programming.
+- Add the actual features you implemented, your role, and repository URL.
+
+Personal Portfolio Website
+- Responsive portfolio built with HTML, CSS, and JavaScript.
+- Published using GitHub Pages.
+- Repository: ADD YOUR REPOSITORY URL
+
+CERTIFICATIONS
+- ADD CERTIFICATION NAME, ISSUER, YEAR
+
+ACHIEVEMENTS
+- ADD RELEVANT ACADEMIC, TECHNICAL, OR EXTRACURRICULAR ACHIEVEMENTS
+
+DECLARATION
+The information above is accurate to the best of my knowledge.
